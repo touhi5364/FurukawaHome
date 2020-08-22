@@ -617,6 +617,7 @@ footer {
   /* padding-right: 10%; */
 
   position: relative;
+  top: 10vh;
 }
 
 .scroll-top {
